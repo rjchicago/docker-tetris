@@ -1,8 +1,6 @@
-# Tetris
+# Tetris in Docker!
 
-**Tetris in Docker!**
-
-_(based on [Tint](https://github.com/DavidGriffith/tint))_
+(based on [Tint](https://github.com/DavidGriffith/tint))
 
 ## Run
 
