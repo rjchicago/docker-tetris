@@ -30,6 +30,8 @@ alias tetris="docker run --rm -it -v tetris_data:/var/games/ rjchicago/tetris"
 tetris
 ```
 
+> To make the alias permanent, insert the above alias in your bash profile.
+
 ## Build
 
 To build this image:
