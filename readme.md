@@ -4,7 +4,7 @@
 
 ## Run
 
-Running locally is simply!
+Running locally is simply...
 
 ``` sh
 docker run --rm -it rjchicago/tetris
@@ -23,7 +23,9 @@ Create an alias to make playing a game as simple as typing `tetris`!
 ``` sh
 # create alias
 alias tetris="docker run --rm -it -v tetris_data:/var/games/ rjchicago/tetris"
+```
 
+``` sh
 # now play!
 tetris
 ```
