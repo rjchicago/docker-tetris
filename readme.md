@@ -33,5 +33,5 @@ tetris
 To build this image:
 
 ``` sh
-docker build -t rjchicago/tetris:latest:${VERSION:-latest} .
+docker build -t rjchicago/tetris:${VERSION:-latest} .
 ```
